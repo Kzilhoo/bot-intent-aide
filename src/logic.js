@@ -1,4 +1,4 @@
-import { allocations } from './aide'
+import { aide } from './aide'
 
 export const logic = ($message) => {
     return new Promise((resolve, reject) => {
